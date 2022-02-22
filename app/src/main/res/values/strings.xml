@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DisplayTextView</string>
+    <string name="buttonDisplay">Display Text</string>
+    <string name="text_display">
+        An Activity is the visual part of an android
+        application. This allows users to interact with
+        the app. Also, its lifecycle state is an important
+        behavior to understand because your app might not
+        give a good user experience at some times during
+        the different state of the app.
+    </string>
+</resources>
