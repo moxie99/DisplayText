@@ -9,4 +9,8 @@
         give a good user experience at some times during
         the different state of the app.
     </string>
+    <string name="editText">Message is clear and plain: </string>
+    <string name="editTextTitle">Message</string>
+    <string name="btnSend">Show Text</string>
+    <string name="data">Data</string>
 </resources>
